@@ -26,9 +26,7 @@ void loop()
   digitalWrite(trigPin, LOW);
 duration=pulseIn(echoPin, HIGH);
 distance=duration*0.034/2;
-//Serial.print("Distance");
-//Serial.println(distance);
- 
+  
  if((distance<10)) 
    {
     analogWrite(ledB,255);
