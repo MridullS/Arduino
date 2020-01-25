@@ -6,3 +6,5 @@ This arrangement consists of an ultrasonic sensor coupled with a RGB LED and Blu
 
 
 p.s.: Although not present, there can be tactile instruments which can help intimate the person, apart from the LED signal. A buzzer along with the Bluetooth message or some kind of tactile instrument to help instruct the person of someone at the door would have been a healthy addition to the model.
+
+Video Presentation link: https://drive.google.com/file/d/1z-nDS3kZjr8Bx7tmVgukdYRtCJokwIPw/view (headphones required)
